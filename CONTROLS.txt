@@ -1,0 +1,16 @@
+For playing with keyboard:
+				WASD - Movement
+				Space - Jump
+				Left Click - Attack
+				E - Lock Camera
+				Q - Toggle lock
+				Mouse movement - Look with the camera
+
+For playing with controller (recommended):
+				
+				Left stick - Movement
+				X / A button - Jump
+				Circle / B button - Attack
+				R1 / RB - Lock camera
+				L1 / LB - Toggle lock
+				Right stick - Look with the camera
